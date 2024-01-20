@@ -4,9 +4,9 @@ Welcome to the Number Shape App, an app designed to swiftly determine the number
 
 **Key Features:**
 
-Shape Recognition: Easily recognize and input different geometric shapes, including triangles, squares, rectangles, and more.
+Shape Recognition: Easily recognize and input different geometric shapes, including triangles, squares, rectangles.
 
-Instant Line Count: Get immediate and accurate information about the number of lines in each shape, aiding in quick analysis and comprehension.
+Instant Line Count: Get immediate and accurate information about the number of lines in each shape, aiding in quick analysis.
 
 User-Friendly Interface: The app boasts an intuitive and easy-to-navigate interface, ensuring a seamless user experience for users of all skill levels.
 
